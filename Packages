@@ -68,19 +68,19 @@ Description: Favorites emoji instead frequently
 Name: Favemoji
 Author: iCraze
 
-Package: me.draked.chhotabanner
+Package: com.mhmdsabdlh.chhotabanner
 Architecture: iphoneos-arm64
 Version: 0.1.2-3+debug
 Section: Tweaks
 Maintainer: mhmdsabdlh
 Installed-Size: 120
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: ./debs/Chhotabanner.deb
-Size: 18908
-MD5sum: c61195ed35ac79fe30fba2ba6ea7034b
-SHA1: 992ea6844d62c497e61a7dd64d5018ffd89dd731
-SHA256: d0479e938d98b3975c09a4959e107ae48d6a54ce1e88f7406b3b1f7c2f124482
-SHA512: 9c6a60d64b945355c964878b111f52faf2a93b66d954f44fccf30e5cb2be724882f4bee3e7d633cbab81fd2a1df0151b557c4ae25db89f4d643aeee555058ed1
+Filename: ./debs/com.mhmdsabdlh.chhotabanner_0.1.2-3+debug_iphoneos-arm64.deb
+Size: 14164
+MD5sum: 5c29e8c3f5a6d0e704965155f2197d65
+SHA1: e9e3e0b12af122f01f9899b40f0a0a5606a1ef67
+SHA256: a20054fb80494827b8b24437b74fff46d434f10c3722abc260e616fdc7064c94
+SHA512: 4566e14a8032dd0138dd8b3b4b7258d6dcc1b7c58fdb4d11d889ae5b4b13e9b9c1ee8fabe023ba35ab419b739b410a6a7ea7114345d414e2d75218a1b6913746
 Description: Small banners in full screen(Gaming mode)
 Name: chhotabanner
 Author: Draked
