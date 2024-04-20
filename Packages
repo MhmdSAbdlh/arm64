@@ -1,0 +1,74 @@
+Package: jp.akusio.backgrounderaction15
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
+Maintainer: @akusio_RR
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Size: 9758
+MD5sum: dc22298382fa90b55cada3c17be1505e
+SHA1: f792ae16efe120e57cb3250cc68f7937013943b7
+SHA256: c497c404ffff941c5fe757f634f5c392f88564e6dcd5fc266a1eeea51b3b948d
+SHA512: 708b2680812c1b400eef5917dc86418ff370992034ec9f594ad8e10465641a2e97a2cc41d9c4aa23009b728437d104f9199f44458d6846675ca1019adb3d897a
+Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction15 CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Author: @akusio_RR
+
+Package: com.mhmdsabdlh.autoalerts
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./debs/com.mhmdsabdlh.autoalerts_1.0.2_iphoneos-arm64.deb
+Size: 48208
+MD5sum: 4499f3824a9cdedb2b058adb9d68311f
+Description: Auto Alerte dismiss
+Name: AutoAlerts
+Depiction: http://cydia.saurik.com/package/org.thebigboss.automa/
+Author: shiftcmdk
+
+Package: com.mhmdsabdlh.autoscroll
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Installed-Size: 223
+Depends: mobilesubstrate
+Filename: ./debs/com.mhmdsabdlh.autoscroll_1.0.deb
+Size: 5248
+MD5sum: 73d7c72b98cbea0b20a9ad68af819fff
+Description: Auto scrolling
+Name: AutoScroll-rootless
+Author: pxcex
+
+Package: com.mhmdsabdlh.favemoji
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Installed-Size: 344
+Depends: mobilesubstrate
+Filename: ./debs/com.mhmdsabdlh.favemoji_1.1_iphoneos-arm64.deb
+Size: 11156
+MD5sum: 1c13d145b3d365fdd7d0f64ca6fa5256
+Description: Favorites emoji instead frequently
+Name: Favemoji
+Author: iCraze
+
+Package: me.draked.chhotabanner
+Architecture: iphoneos-arm64
+Version: 0.1.2-3+debug
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Installed-Size: 120
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs/com.mhmdsabdlh.favemoji_1.1_iphoneos-arm64.deb
+Size: 18908
+MD5sum: c61195ed35ac79fe30fba2ba6ea7034b
+Description: Small banners in full screen(Gaming mode)
+Name: chhotabanner
+Author: Draked

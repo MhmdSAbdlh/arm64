@@ -1,0 +1,9 @@
+﻿Label: MhmdSAblh repo
+Origin: MhmdSAblh repo
+Suite: stable
+Version: 1.0
+Codename: MhmdSAblh-repo
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: MhmdSAblh repo.
+

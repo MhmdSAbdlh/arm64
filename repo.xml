@@ -1,0 +1,24 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on Twitter</name>
+            <url>https://twitter.com/MhmdSAbdlh</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+        <link>
+            <name>View My Facebook Profile</name>
+            <url>https://www.facebook.com/MhmdSAbdlh</url>
+            <iconclass>fa fa-facebook</iconclass>
+        </link>
+        <link>
+            <name>Check My Reddit Account</name>
+            <url>https://www.reddit.com/user/hamadakakos</url>
+            <iconclass>fa fa-reddit</iconclass>
+        </link>
+        <link>
+            <name>look At My GitHub Repo</name>
+            <url>https://github.com/MhmdSAbdlh</url>
+            <iconclass>fa fa-github</iconclass>
+        </link>
+    </footerlinks>
+</repo>
