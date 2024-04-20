@@ -75,7 +75,7 @@ Section: Tweaks
 Maintainer: mhmdsabdlh
 Installed-Size: 120
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: ./debs/com.mhmdsabdlh.favemoji_1.1_iphoneos-arm64.deb
+Filename: ./debs/Chhotabanner.deb
 Size: 18908
 MD5sum: c61195ed35ac79fe30fba2ba6ea7034b
 SHA1: 992ea6844d62c497e61a7dd64d5018ffd89dd731
