@@ -76,11 +76,11 @@ Maintainer: mhmdsabdlh
 Installed-Size: 120
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Filename: ./debs/com.mhmdsabdlh.chhotabanner_0.1.2-3+debug_iphoneos-arm64.deb
-Size: 14164
-MD5sum: 5c29e8c3f5a6d0e704965155f2197d65
-SHA1: e9e3e0b12af122f01f9899b40f0a0a5606a1ef67
-SHA256: a20054fb80494827b8b24437b74fff46d434f10c3722abc260e616fdc7064c94
-SHA512: 4566e14a8032dd0138dd8b3b4b7258d6dcc1b7c58fdb4d11d889ae5b4b13e9b9c1ee8fabe023ba35ab419b739b410a6a7ea7114345d414e2d75218a1b6913746
+Size: 14248
+MD5sum: 1f4aaf5a1f3257e4a086c8ccdf1ee7e6
+SHA1: 93a7a3ee224cdb1704ce3c9718041e851c4e78ef
+SHA256: 6fec55c711f674a205bb9d83212e895ec2c6de650a58d21fc55a4a926cc3e42e
+SHA512: 7a26ae4a0121246dfd7ac362e3925baa60e0210b0b7f80cd67dd02c19855f68f08f8a0625b9df722e7b643488bcf93165b5580dd7edb02e4f086592c97da76fd
 Description: Small banners in full screen(Gaming mode)
 Name: chhotabanner
 Author: Draked
