@@ -26,7 +26,10 @@ Depends: mobilesubstrate
 Filename: ./debs/com.mhmdsabdlh.autoalerts_1.0.2_iphoneos-arm64.deb
 Size: 48208
 MD5sum: 4499f3824a9cdedb2b058adb9d68311f
-Description: Auto Alerte dismiss
+SHA1: bc847a31bc3ea5f855f7fb9d0867afaf3cb4e271
+SHA256: 29113203c8a5dcca2c8a9430085f2d389ee9361aa3a9d6608c217b4b2e422ccc
+SHA512: edc4fab0ff2d686c13eb10ca324502505594ca6375115dbce4c5e6fe6682075d6d0f5ea5d949376a1148c34a50d6d1fd9f13e76e66c922c71d51c24dd3032a2f
+Description: Auto Alert dismiss
 Name: AutoAlerts
 Depiction: http://cydia.saurik.com/package/org.thebigboss.automa/
 Author: shiftcmdk
@@ -41,6 +44,9 @@ Depends: mobilesubstrate
 Filename: ./debs/com.mhmdsabdlh.autoscroll_1.0.deb
 Size: 5248
 MD5sum: 73d7c72b98cbea0b20a9ad68af819fff
+SHA1: 06ff6cb72910ca893db9921803ae85757cd4c7ec
+SHA256: be50145457f06275edb889d20a05ce1b9414b6bbf5bb2ccb65ff1ca204d0ad60
+SHA512: 19708ff24ffe65c93c3c38b43e5c2251422ae9b950c68041abac4596e5497d857557eab328a94cfa4edef717ba48c5b04806c2c13eef9e1641e3a6b1c869a16d
 Description: Auto scrolling
 Name: AutoScroll-rootless
 Author: pxcex
@@ -55,6 +61,9 @@ Depends: mobilesubstrate
 Filename: ./debs/com.mhmdsabdlh.favemoji_1.1_iphoneos-arm64.deb
 Size: 11156
 MD5sum: 1c13d145b3d365fdd7d0f64ca6fa5256
+SHA1: db39301b44b51dbdf0e20e2bae93fd8b86be3e41
+SHA256: ab698b9847c42913283dca8501b470619076ffd51bb7a631a67e62b8138657e5
+SHA512: b4a78adefc5964956480daa69e1d39289c0bbb0a6e822212b3967e78fa2a243219fd980e7fdfa81db1ce5af5c2e8fded4023a8c5593602632a3e1ac5ebf32024
 Description: Favorites emoji instead frequently
 Name: Favemoji
 Author: iCraze
@@ -69,6 +78,9 @@ Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Filename: ./debs/com.mhmdsabdlh.favemoji_1.1_iphoneos-arm64.deb
 Size: 18908
 MD5sum: c61195ed35ac79fe30fba2ba6ea7034b
+SHA1: 992ea6844d62c497e61a7dd64d5018ffd89dd731
+SHA256: d0479e938d98b3975c09a4959e107ae48d6a54ce1e88f7406b3b1f7c2f124482
+SHA512: 9c6a60d64b945355c964878b111f52faf2a93b66d954f44fccf30e5cb2be724882f4bee3e7d633cbab81fd2a1df0151b557c4ae25db89f4d643aeee555058ed1
 Description: Small banners in full screen(Gaming mode)
 Name: chhotabanner
 Author: Draked
