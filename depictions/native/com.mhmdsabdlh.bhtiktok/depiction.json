@@ -1,0 +1,85 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/mhmdsabdlh/sileo/master/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## BHTikTok\nTweak for tiktok, download without watermark and more"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Current Version",
+					"text": "2.3",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "20/4/2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "MhmdSAbdlh",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "mhmdsabdlh.github.io",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Use This Template",
+					"action": "https://github.com/mhmdsabdlh/sileo",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "2.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u20/04/2024 Add Flag",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
