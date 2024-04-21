@@ -102,6 +102,23 @@ Description: Tweak for tiktok, download without watermark and more
 Name: BHTikTok
 Author: Bandar Alruwaili
 
+Package: com.mhmdsabdlh.bhtiktok
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.mhmdsabdlh.bhtiktok_2.3_iphoneos-arm64.deb
+Size: 452964
+MD5sum: fff28eb22b16f1ccccc5e4404b94f9fd
+SHA1: d28151ce5ef5c81bde1f4620536a1d1d17b418cb
+SHA256: 2f1d256b92bfafa03c195f32cf0f1bb54297d5bb91c01cfd56be4205725440e8
+SHA512: 6a4b6518355658b1e8f616fcbc5ab838f8877a16f1601ae38c5863de1b34598c9e75748fe91d6635c3b95d099d816691cc885e28c0fc9de64c707f7b1ee7bae4
+Description: Tweak for tiktok, download without watermark and more
+Name: BHTikTok
+Author: Bandar Alruwaili
+
 Package: com.mhmdsabdlh.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-1+debug
