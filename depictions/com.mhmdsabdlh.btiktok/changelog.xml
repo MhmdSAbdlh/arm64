@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>2.3</version>
+		<change>Add icons</change>
+		<change>Add flag logo</change>
+		<change>Download without watermark</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
