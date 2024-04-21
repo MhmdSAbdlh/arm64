@@ -84,3 +84,37 @@ SHA512: 7a26ae4a0121246dfd7ac362e3925baa60e0210b0b7f80cd67dd02c19855f68f08f8a062
 Description: Small banners in full screen(Gaming mode)
 Name: chhotabanner
 Author: Draked
+
+Package: com.mhmdsabdlh.bhtiktok
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.mhmdsabdlh.bhtiktok_0.0.1_iphoneos-arm64.deb
+Size: 86200
+MD5sum: 2c4e68fa99773bff8a293fddf48cf831
+SHA1: 8b046cab3e99b53bf345d2d2f3b603683d0b14bc
+SHA256: 7c64264a777df0b650f6b23b8c420444cfb08532ae3a844563bd84e2b6ac4892
+SHA512: 8055db344d8df2fb8827756eff4006a7506d60beab778099c5008d66f0b53c4fad2195b778eb4e4006d1a32d340d91c07970543cd3633250e12326aba47640d6
+Description: Tweak for tiktok, download without watermark and more
+Name: BHTikTok
+Author: Bandar Alruwaili
+
+Package: com.mhmdsabdlh.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.3-1+debug
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.mhmdsabdlh.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
+Size: 7612016
+MD5sum: 117e6dd4ad1dd59a066067bb474a3c37
+SHA1: 567713e9b2650b6393582d16d253f8b86245e278
+SHA256: 07fbcac5db01268f412639f24d98c2ee6565b1bf825f9d9aea6b1ab1e14b3ec8
+SHA512: 258fcc5cc0b93bd727222363368f18a6fb7be6345bd43d2fa73d13cc392f4161065246342db79cfb7474d16aafc2cef579f2f65891ca97d9e433ae781c243aae
+Description: Tweak for twitter(X), download videos, gif and more...
+Name: BHX
+Author: Bandar Alruwaili
