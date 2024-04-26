@@ -77,10 +77,66 @@
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
-                }
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "https://mhmdsabdlh.github.com/",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "https://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Github Repos",
+							"action": "https://github.com/MhmdSAbdlh?tab=repositories",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
-        }
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.3"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Added option to disable live broadcasts</li>\n<li>Added option to group menu items</li>\n<li>Added option to switch to compact downloading progress bar</li>\n<li>Added option to disable pull to refresh gesture in feed</li>\n<li>Added option to disable warning message under the video description</li>\n<li>Added "Fix Interactions" button in "Other" section to fix like, follow, comments and etc.</li>\n<li>Added downloading 'unavailable/removed' media support from your Favorites list</li>\n<li>Added japanese localization. Thank you to @SKEIDs</li>\n<li>Improved pure mode: keeps its state for all videos in feed</li>\n<li>Improved skip friends recommendation option</li>\n<li>Added iPad support for region changing (beta)</li>\n<li>Other slight improvements and bugfixes</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
     ]
 }

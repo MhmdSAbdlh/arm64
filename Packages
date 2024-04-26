@@ -3,6 +3,7 @@ Architecture: iphoneos-arm64
 Version: 0.1.0
 Section: Tweaks
 Maintainer: @akusio_RR
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/backgrounderaction15.png
 Installed-Size: 340
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
@@ -22,6 +23,7 @@ Architecture: iphoneos-arm64
 Version: 1.0.2
 Section: Tweaks
 Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/autoalerts.png
 Installed-Size: 528
 Depends: mobilesubstrate
 Filename: ./debs/com.mhmdsabdlh.autoalerts_1.0.2_iphoneos-arm64.deb
@@ -41,6 +43,7 @@ Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
 Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/autoscroll.png
 Installed-Size: 223
 Depends: mobilesubstrate
 Filename: ./debs/com.mhmdsabdlh.autoscroll_1.0.deb
@@ -59,6 +62,7 @@ Architecture: iphoneos-arm64
 Version: 1.1
 Section: Tweaks
 Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/favemoji.png
 Installed-Size: 344
 Depends: mobilesubstrate
 Filename: ./debs/com.mhmdsabdlh.favemoji_1.1_iphoneos-arm64.deb
@@ -77,6 +81,7 @@ Architecture: iphoneos-arm64
 Version: 0.1.2-3+debug
 Section: Tweaks
 Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/chhotabanner.png
 Installed-Size: 120
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Filename: ./debs/com.mhmdsabdlh.chhotabanner_0.1.2-3+debug_iphoneos-arm64.deb
@@ -95,6 +100,7 @@ Architecture: iphoneos-arm64
 Version: 2.3
 Section: Tweaks
 Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/bhtiktok.png
 Installed-Size: 488
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.mhmdsabdlh.bhtiktok_2.3_iphoneos-arm64.deb
@@ -113,6 +119,7 @@ Architecture: iphoneos-arm64
 Version: 4.3-1+debug
 Section: Tweaks
 Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/bhx.png
 Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.mhmdsabdlh.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
@@ -131,6 +138,7 @@ Architecture: iphoneos-arm64
 Version: 2.0.2
 Section: Addons
 Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/cc+.png
 Installed-Size: 913
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/com.mhmdsabdlh.ccplus.deb

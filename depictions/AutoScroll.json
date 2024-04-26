@@ -13,11 +13,6 @@
                     "useBoldText": true
                 },
                 {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Auto scrolling"
-                },
-                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
@@ -37,7 +32,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "When you scroll it will auto scrolling depend on the speed of your scrolling.\r\nWorking in any app",
+                    "markdown": "When you scroll up/down it will auto scroll depend on the speed of your scrolling.\n\nWorking in any app",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -47,7 +42,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.0.0",
+                    "text": "1.1.0",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -73,10 +68,66 @@
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
-                }
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "https://mhmdsabdlh.github.com/",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "https://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Github Repos",
+							"action": "https://github.com/MhmdSAbdlh?tab=repositories",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
-        }
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Remove setting</li>\n<li>Add iOS 16 rootless compatibility!</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
     ]
 }

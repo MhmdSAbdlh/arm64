@@ -15,7 +15,7 @@
                 {
                     "useSpacing": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Favorites emoji instead frequently"
+                    "markdown": "Favourites emoji instead frequently"
                 },
                 {
                     "spacing": 8,
@@ -37,7 +37,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Replace frequently emoji to your favourites emoji.\r\nYou can choose the number you want, de 10 to 50 emojies.\r\nWorks everywhere in your keyboard",
+                    "markdown": "Replace frequently emoji to your favourites emoji.\nYou can choose the number you want, from 10 to 50 emojis.\n\nWorks everywhere in your keyboard",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -66,17 +66,73 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "iCeaze",
+                    "text": "iCraze",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
                 },
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
-                }
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "https://mhmdsabdlh.github.com/",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "https://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Github Repos",
+							"action": "https://github.com/MhmdSAbdlh?tab=repositories",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
-        }
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Add support for iOS15+ rootlesss devices</li>\n<li>Add option to choose between 10-50 emojis</li>\n<li>Add icon to setting.</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
     ]
 }
