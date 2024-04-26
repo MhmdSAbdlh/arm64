@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://i.redd.it/qp592y2xzc151.png",
+    "headerImage": "https://media.idownloadblog.com/wp-content/uploads/2020/01/TikTok-logo.jpg",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
@@ -9,13 +9,13 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "AutoAlerts",
+                    "title": "BHTiktok",
                     "useBoldText": true
                 },
                 {
                     "useSpacing": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Auto dismiss popup"
+                    "markdown": "Tweak to add more features to tiktok"
                 },
                 {
                     "spacing": 8,
@@ -25,11 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://i.redd.it/mokirz06rgp21.png"
+                            "url": "https://onejailbreak.com/site/assets/files/1642/bhtiktok-tweak.720x0-is.jpg"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://i.redd.it/qp592y2xzc151.png"
+                            "url": "https://onejailbreak.com/site/assets/files/1642/bhtiktok.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://github-production-user-asset-6210df.s3.amazonaws.com/38832025/265550639-c8a15d0e-1649-4172-8dd9-37152a5611cb.png?raw=true)"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -37,7 +41,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Auto-click certain options for popups or alerts without the need to click them.\r\n\r\nHow?\r\n- Long press the title of the popup/alert\r\n- It will give you a choose of the button you want to auto press or a dismiss button that dismiss the alert without clicking any button\r\n- Save the option and done.\r\n- You can edit/delete your option in setting",
+                    "markdown": "Add features to tiktok like:\r\n - Download videos/audios with different resolution\r\n - Copy caption from any videos\r\n - Shortcut to clean mode\r\n - Auto-Play next video\r\n - Flag for the creator country\r\n - Faked detail for your profile\r\n - Many More.....",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -47,7 +51,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.0.2",
+                    "text": "2.3",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -66,7 +70,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "shiftcmdk",
+                    "text": "Bandar Alruwaili",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
                 },
@@ -77,46 +81,6 @@
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
-        },
-		{
-			"tabname": "Changelog",
-			"class": "DepictionStackView",
-			"tintColor": "#8600ff",
-			"views": [
-				{
-					"class": "DepictionSubheaderView",
-					"useBoldText": true,
-					"useBottomMargin": false,
-					"title": "1.0.2"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Add icon to setting</li>\n<li>Fix iOS 16 compatibility!</li></ul>",
-					"useRawFormat": true
-				},
-				{
-					"class": "DepictionSubheaderView",
-					"useBoldText": true,
-					"useBottomMargin": false,
-					"title": "1.0.1"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Add iOS 15 Support!</li></ul>",
-					"useRawFormat": true
-				},
-				{
-					"class": "DepictionSubheaderView",
-					"useBoldText": true,
-					"useBottomMargin": false,
-					"title": "1.0.0"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Initial release</li></ul>",
-					"useRawFormat": true
-				}
-			]
-		}
+        }
     ]
 }

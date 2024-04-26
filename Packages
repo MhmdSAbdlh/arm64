@@ -51,7 +51,7 @@ SHA256: be50145457f06275edb889d20a05ce1b9414b6bbf5bb2ccb65ff1ca204d0ad60
 SHA512: 19708ff24ffe65c93c3c38b43e5c2251422ae9b950c68041abac4596e5497d857557eab328a94cfa4edef717ba48c5b04806c2c13eef9e1641e3a6b1c869a16d
 Description: Auto scrolling
 Name: AutoScroll-rootless
-Sileodepiction: https://github.com/MhmdSAbdlh/sileo/blob/main/depictions/AutoScroll.json
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/AutoScroll.json
 Author: pxcex
 
 Package: com.mhmdsabdlh.favemoji
@@ -68,6 +68,7 @@ SHA1: db39301b44b51dbdf0e20e2bae93fd8b86be3e41
 SHA256: ab698b9847c42913283dca8501b470619076ffd51bb7a631a67e62b8138657e5
 SHA512: b4a78adefc5964956480daa69e1d39289c0bbb0a6e822212b3967e78fa2a243219fd980e7fdfa81db1ce5af5c2e8fded4023a8c5593602632a3e1ac5ebf32024
 Description: Favorites emoji instead frequently
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/Favemoji.json
 Name: Favemoji
 Author: iCraze
 
@@ -85,6 +86,7 @@ SHA1: 93a7a3ee224cdb1704ce3c9718041e851c4e78ef
 SHA256: 6fec55c711f674a205bb9d83212e895ec2c6de650a58d21fc55a4a926cc3e42e
 SHA512: 7a26ae4a0121246dfd7ac362e3925baa60e0210b0b7f80cd67dd02c19855f68f08f8a0625b9df722e7b643488bcf93165b5580dd7edb02e4f086592c97da76fd
 Description: Small banners in full screen(Gaming mode)
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/chhotabanner.json
 Name: chhotabanner
 Author: Draked
 
@@ -102,6 +104,7 @@ SHA1: d28151ce5ef5c81bde1f4620536a1d1d17b418cb
 SHA256: 2f1d256b92bfafa03c195f32cf0f1bb54297d5bb91c01cfd56be4205725440e8
 SHA512: 6a4b6518355658b1e8f616fcbc5ab838f8877a16f1601ae38c5863de1b34598c9e75748fe91d6635c3b95d099d816691cc885e28c0fc9de64c707f7b1ee7bae4
 Description: Tweak for tiktok, download without watermark and more
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/bhtiktok.json
 Name: BHTikTok
 Author: Bandar Alruwaili
 
@@ -119,6 +122,7 @@ SHA1: 567713e9b2650b6393582d16d253f8b86245e278
 SHA256: 07fbcac5db01268f412639f24d98c2ee6565b1bf825f9d9aea6b1ab1e14b3ec8
 SHA512: 258fcc5cc0b93bd727222363368f18a6fb7be6345bd43d2fa73d13cc392f4161065246342db79cfb7474d16aafc2cef579f2f65891ca97d9e433ae781c243aae
 Description: Tweak for twitter(X), download videos, gif and more...
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/bhx.json
 Name: BHX
 Author: Bandar Alruwaili
 
@@ -136,6 +140,7 @@ SHA1: b8c13327dc339521cf7de59d76a9526dfd9d062a
 SHA256: fdaa118cdd53f24e8b0657b65e1e9723d9a2ba09b7f472b9f5072687979f24c6
 SHA512: b476bc7023e304304ade4a92c089aa2d4892dfa88644019bdfed15023cfb373a2e92f1fb0fb22892e44bf019052d920ebd14d83675a43022440f51422aa3e731
 Description: Add some modules to the control center
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/cc+.json
 Name: CC+
 Author: MhmdSAbdlh
 
