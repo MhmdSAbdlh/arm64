@@ -14,6 +14,7 @@ SHA512: 708b2680812c1b400eef5917dc86418ff370992034ec9f594ad8e10465641a2e97a2cc41
 Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
 Name: BackgrounderAction15 CCSupport
 Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/BackgrounderAction.json
 Author: @akusio_RR
 
 Package: com.mhmdsabdlh.autoalerts
@@ -32,6 +33,7 @@ SHA512: edc4fab0ff2d686c13eb10ca324502505594ca6375115dbce4c5e6fe6682075d6d0f5ea5
 Description: Auto Alert dismiss
 Name: AutoAlerts
 Depiction: http://cydia.saurik.com/package/org.thebigboss.automa/
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/AutoAlerts.json
 Author: shiftcmdk
 
 Package: com.mhmdsabdlh.autoscroll
@@ -49,6 +51,7 @@ SHA256: be50145457f06275edb889d20a05ce1b9414b6bbf5bb2ccb65ff1ca204d0ad60
 SHA512: 19708ff24ffe65c93c3c38b43e5c2251422ae9b950c68041abac4596e5497d857557eab328a94cfa4edef717ba48c5b04806c2c13eef9e1641e3a6b1c869a16d
 Description: Auto scrolling
 Name: AutoScroll-rootless
+Sileodepiction: https://github.com/MhmdSAbdlh/sileo/blob/main/depictions/AutoScroll.json
 Author: pxcex
 
 Package: com.mhmdsabdlh.favemoji
