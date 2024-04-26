@@ -1,20 +1,30 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://media.idownloadblog.com/wp-content/uploads/2023/05/Favemoji-Prefs.jpg",
+    "headerImage": "https://tools4hack.santalab.me/media/uploads/2019/05/jbapp-backgroundactionccsupport-1.jpg",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
         {
             "views": [
                 {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "BackgrounderAction",
+                    "useBoldText": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://media.idownloadblog.com/wp-content/uploads/2023/05/Favemoji-before-and-after.jpg"
+                            "url": "https://github.com/MhmdSAbdlh/sileo/blob/main/img/disable.JPG?raw=true"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://media.idownloadblog.com/wp-content/uploads/2023/05/Favemoji-Prefs.jpg"
+                            "url": "https://github.com/MhmdSAbdlh/sileo/blob/main/img/enable.png?raw=true"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -22,7 +32,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Replace frequently emoji to your favourites emoji.\n\nYou can choose the number you want, from 10 to 50 emojis.\n\nWorks everywhere in your keyboard.",
+                    "markdown": "Add a background module to the CC that allows you to run your app in the background without the need to keep it open.\n\nIt is very useful if you want to listen to music in the background or you want to keep your files downloading",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -32,7 +42,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.1",
+                    "text": "0.1.0",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -47,7 +57,7 @@
                     "title": "Price"
                 },
                 {
-                    "text": "iCraze",
+                    "text": "Akusio",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
                 },
@@ -90,7 +100,8 @@
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
-        },	{
+        },
+		{
 			"tabname": "Changelog",
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
@@ -99,18 +110,18 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "1.1"
+					"title": "0.1.0"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Add support for iOS15+ rootlesss devices</li>\n<li>Add option to choose between 10-50 emojis</li>\n<li>Add icon to setting.</li></ul>",
+					"markdown": "<ul>\n<li>Add "toggle Background mode" action to ControlCenter</li>\n<li>you need install CCSupport</li></ul>",
 					"useRawFormat": true
 				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "1.0"
+					"title": "0.0.1"
 				},
 				{
 					"class": "DepictionMarkdownView",

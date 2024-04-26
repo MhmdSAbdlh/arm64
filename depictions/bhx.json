@@ -1,21 +1,11 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://media.idownloadblog.com/wphttps://onejailbreak.com/site/assets/files/1481/bhtwitter-ios.jpg-content/uploads/2020/01/TikTok-logo.jpg",
+    "headerImage": "https://onejailbreak.com/site/assets/files/1481/bhtwitter-ios.jpg",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
         {
             "views": [
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBottomMargin": false,
-                    "title": "BHX",
-                    "useBoldText": true
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
                 {
                     "screenshots": [
                         {

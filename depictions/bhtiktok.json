@@ -7,16 +7,6 @@
         {
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBottomMargin": false,
-                    "title": "BHTiktok",
-                    "useBoldText": true
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",

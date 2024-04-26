@@ -22,7 +22,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Replace the large banner to small one(Like a line) in the full screen mode.\n\nIt help you to watch your videos, play games without interrupt",
+                    "markdown": "Replace the large banner to small one(Like a line) in the full screen mode.\n\nIt help you to watch your videos, play games without interrupt.",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
