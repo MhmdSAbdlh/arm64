@@ -9,13 +9,8 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useBottomMargin": false,
-                    "title": "BackgrounderAction15CCSupport",
+                    "title": "BackgrounderAction",
                     "useBoldText": true
-                },
-                {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Add \"Toggle Background Mode\" action to ControlCenter."
                 },
                 {
                     "spacing": 8,
@@ -37,7 +32,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Add a background module to the CC that allows you to run your app in the background without the need to keep it open.\r\n\r\nIt is very useful if you want to listen to music in the background or you want to keep your files downloading",
+                    "markdown": "Add a background module to the CC that allows you to run your app in the background without the need to keep it open.\n\nIt is very useful if you want to listen to music in the background or you want to keep your files downloading",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -62,13 +57,14 @@
                     "title": "Price"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "text": "Akusio",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
                 },
                 {
                     "spacing": 8,
@@ -80,7 +76,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Website",
-							"action": "https://mhmdsabdlh.github.com/",
+							"action": "https://mhmdsabdlh.github.io/",
 							"openExternal": false
 						},
 						{

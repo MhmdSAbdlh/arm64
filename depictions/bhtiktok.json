@@ -13,11 +13,6 @@
                     "useBoldText": true
                 },
                 {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Tweak to add more features to tiktok"
-                },
-                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
@@ -41,7 +36,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Add features to tiktok like:\r\n - Download videos/audios with different resolution\r\n - Copy caption from any videos\r\n - Shortcut to clean mode\r\n - Auto-Play next video\r\n - Flag for the creator country\r\n - Faked detail for your profile\r\n - Many More.....",
+                    "markdown": "Add features to tiktok like:\n - Download videos/audios with different resolution\n - Copy caption from any videos\n - Shortcut to clean mode\n - Auto-Play next video\n - Flag for the creator country\n - Faked detail for your profile\n - Many More.....",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -66,13 +61,14 @@
                     "title": "Price"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "text": "Bandar Alruwaili",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
                 },
                 {
                     "spacing": 8,
@@ -84,7 +80,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Website",
-							"action": "https://mhmdsabdlh.github.com/",
+							"action": "https://mhmdsabdlh.github.io/",
 							"openExternal": false
 						},
 						{

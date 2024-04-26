@@ -7,21 +7,6 @@
         {
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "useBottomMargin": false,
-                    "title": "Favemoji",
-                    "useBoldText": true
-                },
-                {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Favourites emoji instead frequently"
-                },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
@@ -37,7 +22,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Replace frequently emoji to your favourites emoji.\nYou can choose the number you want, from 10 to 50 emojis.\n\nWorks everywhere in your keyboard",
+                    "markdown": "Replace frequently emoji to your favourites emoji.\n\nYou can choose the number you want, from 10 to 50 emojis.\n\nWorks everywhere in your keyboard",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -62,13 +47,14 @@
                     "title": "Price"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "text": "iCraze",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
                 },
                 {
                     "spacing": 8,
@@ -80,7 +66,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Website",
-							"action": "https://mhmdsabdlh.github.com/",
+							"action": "https://mhmdsabdlh.github.io/",
 							"openExternal": false
 						},
 						{
@@ -104,8 +90,7 @@
             ],
             "class": "DepictionStackView",
             "tabname": "Details"
-        },
-		{
+        },	{
 			"tabname": "Changelog",
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",

@@ -13,11 +13,6 @@
                     "useBoldText": true
                 },
                 {
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Auto dismiss popup"
-                },
-                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
@@ -62,13 +57,14 @@
                     "title": "Price"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
                     "text": "shiftcmdk",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
                 },
                 {
                     "spacing": 8,
@@ -80,7 +76,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Website",
-							"action": "https://mhmdsabdlh.github.com/",
+							"action": "https://mhmdsabdlh.github.io/",
 							"openExternal": false
 						},
 						{
