@@ -1,20 +1,30 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://media.idownloadblog.com/wp-content/uploads/2020/02/AutoScroll-Prefs.jpg",
+    "headerImage": "https://tools4hack.santalab.me/media/uploads/2019/05/jbapp-backgroundactionccsupport-1.jpg",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
         {
             "views": [
                 {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "BackgrounderAction",
+                    "useBoldText": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://i.ytimg.com/vi/8Cc3O6oGSXE/maxresdefault.jpg"
+                            "url": "https://github.com/MhmdSAbdlh/sileo/blob/main/img/disable.JPG?raw=true"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-Scrolling.jpg"
+                            "url": "https://github.com/MhmdSAbdlh/sileo/blob/main/img/enable.png?raw=true"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -22,7 +32,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "When you scroll up/down it will auto scroll depend on the speed of your scrolling.\n\nWorking in any app",
+                    "markdown": "Add a background module to the CC that allows you to run your app in the background without the need to keep it open.\n\nIt is very useful if you want to listen to music in the background or you want to keep your files downloading",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -32,7 +42,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.1.0",
+                    "text": "0.1.0",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -47,7 +57,7 @@
                     "title": "Price"
                 },
                 {
-                    "text": "pxcex",
+                    "text": "Akusio",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
                 },
@@ -100,18 +110,18 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "1.1.0"
+					"title": "0.1.0"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Remove setting</li>\n<li>Add iOS 16 rootless compatibility!</li></ul>",
+					"markdown": "<ul>\n<li>Add toggle Background mode action to ControlCenter</li>\n<li>you need install CCSupport</li></ul>",
 					"useRawFormat": true
 				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "1.0.0"
+					"title": "0.0.1"
 				},
 				{
 					"class": "DepictionMarkdownView",
