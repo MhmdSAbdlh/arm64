@@ -10,15 +10,19 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://media.havoc.app/639a2eb02814b75306363ee2"
+                            "url": "https://media.havoc.app/639a2ee32814b75306364330"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://media.havoc.app/639a2ec22814b7530636407e"
+                            "url": "https://media.havoc.app/639a2ed32814b753063641f8"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://media.havoc.app/639a2ed32814b753063641f8"
+                            "url": "https://media.havoc.app/639a2ec22814b7530636407e"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://media.havoc.app/639a2eb02814b75306363ee2"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
@@ -26,7 +30,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown":Choose your style between Recents, Library, or both!\r\nWorks on iOS 15 to iOS 16!\r\nHide dock Background\r\nHide Separator\r\nChoose max Recent Apps\r\nChoose max Dock Apps ",
+                    "markdown":"Choose your style between Recents, Library, or both!\r\nWorks on iOS 15 to iOS 16!\r\nHide dock Background\r\nHide Separator\r\nChoose max Recent Apps\r\nChoose max Dock Apps ",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -70,7 +74,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Website",
-							"action": "https://github.com/nahtedetihw/FloatingDockXVI",
+							"action": "https://paypal.me/nahtdetihw",
 							"openExternal": false
 						},
 						{
@@ -82,7 +86,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Github Repos",
-							"action": "https://paypal.me/nahtdetihw",
+							"action": "https://github.com/nahtedetihw/FloatingDockXVI",
 							"openExternal": false
 						}
 					]
@@ -115,11 +119,11 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "2.2"
+					"title": "2.0"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Fixed an issue where the folders if presented from within the dock would behave weirdly, now it works fluently</li>\n<li>Added an option "None" in case a user doesn't want to disable the dock in the switcher or in-app, now floating dock will stay on screen for both scenarios</li>\n<li>Added another check to ensure that the dock doesn't get dismissed on the home screen</li></ul>",
+					"markdown": "<ul>\n<li>Fixed an issue where the folders if presented from within the dock would behave weirdly, now it works fluently</li>\n<li>Added an option \"None\" in case a user doesn't want to disable the dock in the switcher or in-app, now floating dock will stay on screen for both scenarios</li>\n<li>Added another check to ensure that the dock doesn't get dismissed on the home screen</li></ul>",
 					"useRawFormat": true
 				},
 				{
