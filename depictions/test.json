@@ -30,7 +30,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown":"Choose your style between Recents, Library, or both!\r\nWorks on iOS 15 to iOS 16!\r\nHide dock Background\r\nHide Separator\r\nChoose max Recent Apps\r\nChoose max Dock Apps ",
+                    "markdown":"Choose your style between Recents, Library, or both!\nWorks on iOS 15 to iOS 16!\n\nHide dock Background\r\n\r\nHide Separator\r\nChoose max Recent Apps\r\nChoose max Dock Apps ",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
