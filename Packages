@@ -101,18 +101,18 @@ Version: 2.3
 Section: Tweaks
 Maintainer: mhmdsabdlh
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/bhtiktok.png
-Installed-Size: 488
+Installed-Size: 1480
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.mhmdsabdlh.bhtiktok_2.3_iphoneos-arm64.deb
-Size: 452964
-MD5sum: fff28eb22b16f1ccccc5e4404b94f9fd
-SHA1: d28151ce5ef5c81bde1f4620536a1d1d17b418cb
-SHA256: 2f1d256b92bfafa03c195f32cf0f1bb54297d5bb91c01cfd56be4205725440e8
-SHA512: 6a4b6518355658b1e8f616fcbc5ab838f8877a16f1601ae38c5863de1b34598c9e75748fe91d6635c3b95d099d816691cc885e28c0fc9de64c707f7b1ee7bae4
+Size: 481136
+MD5sum: ad785f9ebc31f3ee520c803f020f7821
+SHA1: 762fae86b35970ffedb5b675c7676c29a3e0b602
+SHA256: 3cbf00ab94ea35f7bb26ddd391d9af772a92a76c3e6a580d64de0cb73d642018
+SHA512: f01c0b0a6ab07d0dbc347ab577b1bf8f03f837231d81fb9928915408fc7a833da959586b363c6a192a5f8a5a9a423096a221dccb2b88ca28d58e5cdbbd9526b4
 Description: Tweak for tiktok, download without watermark and more
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/bhtiktok.json
-Name: BHTikTok
-Author: Bandar Alruwaili
+Name: BHTikTok+
+Author: dvntm
 
 Package: com.mhmdsabdlh.bhtwitter
 Architecture: iphoneos-arm64
