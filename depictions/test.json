@@ -1,0 +1,139 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://media.havoc.app/639a2eb12814b75306363eee",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://media.havoc.app/639a2eb02814b75306363ee2"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://media.havoc.app/639a2ec22814b7530636407e"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://media.havoc.app/639a2ed32814b753063641f8"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown":Choose your style between Recents, Library, or both!\r\nWorks on iOS 15 to iOS 16!\r\nHide dock Background\r\nHide Separator\r\nChoose max Recent Apps\r\nChoose max Dock Apps ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.3",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "28-4-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "text": "ETHN",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "https://github.com/nahtedetihw/FloatingDockXVI",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "https://twitter.com/ethanwhited",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Github Repos",
+							"action": "https://paypal.me/nahtdetihw",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.3"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fixes for recents to prevent crash</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.2"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fixed an issue where the folders if presented from within the dock would behave weirdly, now it works fluently</li>\n<li>Added an option "None" in case a user doesn't want to disable the dock in the switcher or in-app, now floating dock will stay on screen for both scenarios</li>\n<li>Added another check to ensure that the dock doesn't get dismissed on the home screen</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial tweak</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+    ]
+}
