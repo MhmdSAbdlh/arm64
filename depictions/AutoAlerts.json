@@ -77,8 +77,8 @@
 						},
 						{
 							"class": "DepictionTableButtonView",
-							"title": "Github Repos",
-							"action": "https://github.com/MhmdSAbdlh?tab=repositories",
+							"title": "Donate",
+							"action": "https://paypal.me/mhmdsabdlh",
 							"openExternal": false
 						}
 					]
