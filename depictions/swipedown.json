@@ -22,7 +22,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown":"<b>Swipe down with two fingers from the top of the screen to take a screenshot</b>\n\n\n\nVery easy to use\n\nNo setting to configure ",
+                    "markdown":"Swipe down with two fingers from the top of the screen to take a screenshot\n\n\n\nVery easy to use\n\nNo setting to configure ",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -52,9 +52,9 @@
                     "title": "Developer"
                 },
                 {
-                    "text": "MhmdSAbdlh",
+                    "text": "16.0 - 16.7",
                     "class": "DepictionTableTextView",
-                    "title": "Maintainer"
+                    "title": "compatibility"
                 },
                 {
                     "spacing": 8,
@@ -66,18 +66,18 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Website",
-							"action": "http://mhmdsabdlh.github.io",
+							"action": "mhmdsabdlh.github.io",
 							"openExternal": false
 						},
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Twitter(X)",
-							"action": "http://twitter.com/mhmdsabdlh",
+							"action": "http://x.com/mhmdsabdlh",
 							"openExternal": false
 						},
 						{
 							"class": "DepictionTableButtonView",
-							"title": "Github Repos",
+							"title": "Github",
 							"action": "http://github.com/mhmdsabdlh",
 							"openExternal": false
 						}
