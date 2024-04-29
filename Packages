@@ -151,3 +151,22 @@ Description: Add some modules to the control center
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/cc+.json
 Name: CC+
 Author: MhmdSAbdlh
+
+Package: com.mhmdsabdlh.swipedownscreenshot
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/swipedown.png
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: ./debs/com.mhmdsabdlh.swipedownscreenshot_1.0_iphoneos-arm64.deb
+Size: 4248
+MD5sum: 2b590ef4f73408d5c339f22dd6cada7d
+SHA1: cfd1dc8d2986720fdfd138b3786df335cbf24fb8
+SHA256: b51b0986e4dff7658e870070b14b1a4b1cd24af5f1b460792f296904d172aa30
+SHA512: 665e6720a63aa95269cefc9a6be49731fc76c96b82d659d5f5f511ec98740f097c29e9927d971d6639f61e64376c34b7450717d7899709fb1c148173d7154b6f
+Description: Swipe down from the top of the screen with two fingers to screenshot
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/swipedown.json
+Name: SwipeDownScreenshot
+Author: MhmdSAbdlh

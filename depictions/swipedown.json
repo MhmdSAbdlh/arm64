@@ -1,0 +1,113 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://i.ytimg.com/vi/aSld8UjESJA/maxresdefault.jpg",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://thumbs.dreamstime.com/z/finger-swipe-down-flat-icon-touch-gesture-hand-gestures-mobile-interface-drag-vector-graphics-colorful-solid-pattern-89825392.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://media.ipadpilotnews.com/wp-content/uploads/2020/04/07124741/swipedown.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown":"<b>Swipe down with two fingers from the top of the screen to take a screenshot</b>\n\n\n\nVery easy to use\n\nNo setting to configure ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "29-4-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "http://mhmdsabdlh.github.io",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "http://twitter.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Github Repos",
+							"action": "http://github.com/mhmdsabdlh",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial Release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+    ]
+}
