@@ -142,11 +142,11 @@ Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/cc+.png
 Installed-Size: 913
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/cc_2.0.3_iphoneos-arm64.deb
-Size: 704764
-MD5sum: d3b6fcf6dcb3755355a6e2b3cdbff9ce
-SHA1: 288d3f5c36d1579098f64ad86e5e9c239368f6a9
-SHA256: d81901649ff7f057ec2641a05483c0db4a9d240a1e6d52fd9eea9881f84ae632
-SHA512: e8d4be307a4248eab5ea8cfaafd6c29f0e2f2f5fd9ae1169ae1a6fc5ac549ab4c0f92909575498b0c86ce499d8ddecaed64d69307c63a3b503ed0e611cc68844
+Size: 420984
+MD5sum: 7d60b91d70d1ddcb3da655dfeee131d7
+SHA1: da0d701cc90c93349cad71bcfe2b62169b150468
+SHA256: f8039fe6ded6d243379bd8c279fefb167da4172197f5cb99a0e36e64865bf610
+SHA512: 47da2eb3a590c479ece9363cb1087430530c6ecf572969e12190e3a74e02a418b0244d553788427229203b49f72d67c2d4788d46bdc83e278b4ec6280faa1c0c
 Description: Add some modules to the control center
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/cc+.json
 Name: CC+
