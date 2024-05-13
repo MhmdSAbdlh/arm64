@@ -36,7 +36,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "2.0.2",
+                    "text": "2.0.3",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
@@ -96,6 +96,17 @@
 			"tintColor": "#8600ff",
 			"views": [
 				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title:"2.0.3"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\nAdd lift to wake up module</ul>",
+					"useRawFormat": true
+				},
+                {
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
