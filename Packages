@@ -142,7 +142,7 @@ Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/cc+.png
 Installed-Size: 913
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/cc_2.0.3_iphoneos-arm64.deb
-Size: 420984
+Size: 704764
 MD5sum: d3b6fcf6dcb3755355a6e2b3cdbff9ce
 SHA1: 288d3f5c36d1579098f64ad86e5e9c239368f6a9
 SHA256: d81901649ff7f057ec2641a05483c0db4a9d240a1e6d52fd9eea9881f84ae632
