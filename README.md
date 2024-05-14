@@ -1,4 +1,4 @@
- My Cydia Repository for my tweak, it contains a web depiction clone from Reposi3, and a native depiction works with Zebra.
+ My Sileo Repository for my tweak, it contains a modern depiciton for sileo only
 
 To contact me :
 
