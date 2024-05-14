@@ -189,3 +189,22 @@ Description: Swipe down from the top of the screen with two fingers to screensho
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/swipedown.json
 Name: SwipeDownScreenshot
 Author: MhmdSAbdlh
+
+Package: com.mhmdsabdlh.saily
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: Applications
+Maintainer: mhmdsabdlh
+Icon: https://upload.wikimedia.org/wikipedia/commons/e/e7/Saily_Icon.png
+Installed-Size: 4835
+Depends: mobilesubstrate
+Filename: ./debs/com.mhmdsabdlh.saily.deb
+Size: 3498456
+MD5sum: 1cc86fb74679db936e3b170bead26528
+SHA1: 9a41e477a64743122b0c4da473794fe20a6ba42f
+SHA256: 4a71599bb4dfd05eba247efad22d2474f26b27fc48e6d8c600c46095087d440b
+SHA512: f43fe25726922f664e7b59fe1bf7a9c8c82a1f02e79c2ce71b46793e465928353741139d38d51db283f03d50821ddfe17ae699fa67de68000843e5fb3fa8cd85
+Description: Modern repo manager
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/saily.json
+Name: Saily
+Author: Saily Team

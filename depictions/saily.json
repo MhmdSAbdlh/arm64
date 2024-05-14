@@ -1,0 +1,149 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://repository-images.githubusercontent.com/280041061/1e781580-84b7-11eb-9f2b-3f4b20d955af",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://sailyteam.github.io/img/discover.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://media.idownloadblog.com/wp-content/uploads/2021/08/Saily-iPad.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://iexmo.com/updates/wp-content/uploads/2022/12/Saily-IPA-How-To-Install-Saily-Package-Manager-on-iPhone.webp"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown":"Saily is a modern APT package manager for jailbroken devices running iOS/iPadOS 13 and up.\n\n\n\n Unique UI for BOTH iPhone and iPad\n\n Import all your repos from Cydia, Sileo, Zebra, and Installer\n\n Add and manage repositories without limitation\n\n Built to work alongside all of your other package managers\n\n Support for Web Depiction with dark mode\n\n Support for Native Depictions with dark mode\n\n Support for all jailbreaks (excluding rootlessJB)\n\n Support for paid packages\n\n Make everything clear with Version Control page listing all available versions and repos\n\n Clean and stable packaging using CI machine\n\n Random device info for free packages\n\n Fully open-sourced under MIT Licence\n\n Quick actions (eg respring, uicache) via Setting page ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.1",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "13-5-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "text": "Saily Team",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "text": "13.0 - 17.5",
+                    "class": "DepictionTableTextView",
+                    "title": "compatibility"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
+                },
+                {
+                    "text": "3.5 MB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "mhmdsabdlh.github.io",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "http://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Paypal",
+							"action": "http://paypal.me/mhmdsabdlh",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Add Rootless support</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Install package payload without .deb path extension now supported</li>\n<li>URL Scheme may broken when opening from Safari</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial Release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+    ]
+}
