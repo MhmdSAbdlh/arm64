@@ -57,6 +57,11 @@
                     "title": "compatibility"
                 },
                 {
+                    "text": "4.2 KB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
+                },
+                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
@@ -77,8 +82,8 @@
 						},
 						{
 							"class": "DepictionTableButtonView",
-							"title": "Github",
-							"action": "http://github.com/mhmdsabdlh",
+							"title": "Donate",
+							"action": "http://paypal.me/mhmdsabdlh",
 							"openExternal": false
 						}
 					]

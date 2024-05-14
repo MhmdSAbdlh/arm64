@@ -5,13 +5,13 @@ rem Set the path to your 7-Zip installation directory
 set "sevenZipPath=C:\Program Files\7-Zip"
 
 rem Set the path to the files you want to add to the bz2 archive
-set "filesToAdd=C:\Users\Usuario\Documents\GitHub\sileo\Packages"
+set "filesToAdd=%~dp0Packages"
 
 rem Set the path to the bz2 archive
-set "bz2Archive=C:\Users\Usuario\Documents\GitHub\sileo\Packages.bz2"
+set "bz2Archive=%~dp0Packages.bz2"
 
 rem Set the path to the gz archive
-set "gzArchive=C:\Users\Usuario\Documents\GitHub\sileo\Packages.gz"
+set "gzArchive=%~dp0Packages.gz"
 
 rem Check if 7-Zip exists in the specified path
 if not exist "%sevenZipPath%\7z.exe" (

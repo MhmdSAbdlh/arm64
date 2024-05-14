@@ -41,7 +41,7 @@
                     "title": "Version"
                 },
                 {
-                    "text": "04-26-2024",
+                    "text": "05-13-2024",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -54,6 +54,11 @@
                     "text": "MhmdSAbdlh",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
+                },
+                {
+                    "text": "421 KB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
                 },
                 {
                     "spacing": 8,

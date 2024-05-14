@@ -57,6 +57,11 @@
                     "title": "Maintainer"
                 },
                 {
+                    "text": "48 KB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
+                },
+                {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
