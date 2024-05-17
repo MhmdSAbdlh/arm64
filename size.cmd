@@ -36,11 +36,11 @@ for /f "delims=" %%i in ('certutil -hashfile "%FilePath%" SHA512 ^| findstr /v "
 
 rem Write to output file with values on separate lines
 (
-    echo MD5: %MD5%
+    echo Size: %FileSize%
+    echo MD5sum: %MD5%
     echo SHA1: %SHA1%
     echo SHA256: %SHA256%
     echo SHA512: %SHA512%
-    echo SIZE: %FileSize% bytes
 ) > "%OutputFile%"
 
 echo Hash values and file size have been saved to "%OutputFile%".

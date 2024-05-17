@@ -57,20 +57,20 @@ Name: AutoScroll-rootless
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/AutoScroll.json
 Author: pxcex
 
-Package: com.mhmdsabdlh.favemoji
+Package: com.icraze.favemoji
 Architecture: iphoneos-arm64
-Version: 1.1
+Version: 1.2
 Section: Tweaks
 Maintainer: mhmdsabdlh
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/favemoji.png
 Installed-Size: 344
 Depends: mobilesubstrate
-Filename: ./debs/com.mhmdsabdlh.favemoji_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.icraze.favemoji_1.2_iphoneos-arm64.deb
 Size: 11156
-MD5sum: 1c13d145b3d365fdd7d0f64ca6fa5256
-SHA1: db39301b44b51dbdf0e20e2bae93fd8b86be3e41
-SHA256: ab698b9847c42913283dca8501b470619076ffd51bb7a631a67e62b8138657e5
-SHA512: b4a78adefc5964956480daa69e1d39289c0bbb0a6e822212b3967e78fa2a243219fd980e7fdfa81db1ce5af5c2e8fded4023a8c5593602632a3e1ac5ebf32024
+MD5sum: 3d44af48465c4e2cc910257260820856
+SHA1: ff48e96564cbd5be07253c93d84ff6f804d1314f
+SHA256: e48fe21434bea85787410f5d378625c46fe7c45295a873d8c5cf02ec729722fe
+SHA512: 815ed73f5bd203d12d78f7cd4ba07b55bf1c3e63fcd358b655be8ba5f4ce4707acd0a82e5fc125b6d15fbed1e1b04525705db57d442c951553cd9c0c89ca238a
 Description: Favorites emoji instead frequently
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/Favemoji.json
 Name: Favemoji
@@ -135,37 +135,18 @@ Author: Bandar Alruwaili
 
 Package: com.mhmdsabdlh.ccplus
 Architecture: iphoneos-arm64
-Version: 2.0.3
+Version: 2.0.4
 Section: Addons
 Maintainer: mhmdsabdlh
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/cc+.png
 Installed-Size: 913
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/cc_2.0.3_iphoneos-arm64.deb
-Size: 421112
-MD5sum: bde864343ba576d185919680a39fe8a3
-SHA1: 219e25534093ee8a49fa41e3c7b24364efd1fa5d
-SHA256: 7e4f0045d86d238bedf25b14fcec552d1f10d456296b184d1209dd88054b99e7
-SHA512: b4bb71154592e7b2f46ea14d073c5d9a9654605c0f7674851f4a2eb5726bd52ce36d8ea468deda4dcb0f6fda11201b7ea1553c23247dba4e9bf1c0705193a57a
-Description: Add some modules to the control center
-Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/cc+.json
-Name: CC+
-Author: MhmdSAbdlh
-
-Package: com.mhmdsabdlh.ccplus
-Architecture: iphoneos-arm64
-Version: 2.0.2
-Section: Addons
-Maintainer: mhmdsabdlh
-Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/cc+.png
-Installed-Size: 913
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.mhmdsabdlh.ccplus.deb
-Size: 407032
-MD5sum: 7c08d744d63a4175fdc5a4d150b01a52
-SHA1: b8c13327dc339521cf7de59d76a9526dfd9d062a
-SHA256: fdaa118cdd53f24e8b0657b65e1e9723d9a2ba09b7f472b9f5072687979f24c6
-SHA512: b476bc7023e304304ade4a92c089aa2d4892dfa88644019bdfed15023cfb373a2e92f1fb0fb22892e44bf019052d920ebd14d83675a43022440f51422aa3e731
+Filename: ./debs/com.mhmdsabdlh.ccplus_2.0.4_iphoneos-arm64.deb
+Size: 421160
+MD5sum: e81deca07f078e5348d2837bdda29c28
+SHA1: de39071fce96e526213614edaab63cf17f989c49
+SHA256: fa5051bb599210b0f9f3864d14240dcb02e955e4c588cb86ae23f3f528e13179
+SHA512: 057e5076dd6d05d2ad2d0f5224fa772c3ece5828ad2a81921c83e8c51a72bd2b61a0015025c8c6509cbb4e378b7e5e88c8f67e6071b2fa49c9900a035e7a56e5
 Description: Add some modules to the control center
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/cc+.json
 Name: CC+
@@ -208,3 +189,22 @@ Description: Modern repo manager
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/saily.json
 Name: Saily
 Author: Saily Team
+
+Package: com.mhmdsabdlh.disablepastealert16
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Icon: https://cdn-icons-png.freepik.com/512/4340/4340834.png
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.mhmdsabdlh.disablepastealert16_1.0_iphoneos-arm64
+Size: 3980
+MD5sum: a9802f6355045bf852394511fd0dc461
+SHA1: 037b52763fdd87f97428f37b7761497a62a35907
+SHA256: a07e24e4d5ca69d6d4ee86224fb63d3719a04d09c0696a74e441112a6aa3eeb0
+SHA512: 39702725c3ba957997883d7459682f379ddd3e48180d076ca34f875144f224261811aa98f80bd9f131bd3eb176cce58d4e6f43f1d981c8877b21c9aba8bc3f46
+Description: Disable paste alert warning for ios16+
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/disablepaste.json
+Name: DisablePaste16
+Author: SquidForce
