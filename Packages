@@ -198,7 +198,7 @@ Maintainer: mhmdsabdlh
 Icon: https://cdn-icons-png.freepik.com/512/4340/4340834.png
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.mhmdsabdlh.disablepastealert16_1.0_iphoneos-arm64
+Filename: ./debs/com.mhmdsabdlh.disablepastealert16_1.0_iphoneos-arm64.deb
 Size: 3980
 MD5sum: a9802f6355045bf852394511fd0dc461
 SHA1: 037b52763fdd87f97428f37b7761497a62a35907

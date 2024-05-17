@@ -36,12 +36,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "2.0.3",
+                    "text": "2.0.4",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "05-13-2024",
+                    "text": "05-17-2024",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -104,6 +104,17 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
+					"title":"2.0.4"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\nFix some modules text in chinese</ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
 					"title":"2.0.3"
 				},
 				{
@@ -111,7 +122,7 @@
 					"markdown": "<ul>\nAdd lift to wake up module</ul>",
 					"useRawFormat": true
 				},
-                {
+                		{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,

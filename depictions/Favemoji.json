@@ -32,12 +32,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.1",
+                    "text": "1.2",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
                 {
-                    "text": "04-26-2024",
+                    "text": "05-17-2024",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -100,6 +100,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.2"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\nFix package name</ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
