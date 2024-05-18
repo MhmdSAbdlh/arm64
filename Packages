@@ -199,12 +199,31 @@ Icon: https://cdn-icons-png.freepik.com/512/4340/4340834.png
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.mhmdsabdlh.disablepastealert16_1.0_iphoneos-arm64.deb
-Size: 3980
-MD5sum: a9802f6355045bf852394511fd0dc461
-SHA1: 037b52763fdd87f97428f37b7761497a62a35907
-SHA256: a07e24e4d5ca69d6d4ee86224fb63d3719a04d09c0696a74e441112a6aa3eeb0
-SHA512: 39702725c3ba957997883d7459682f379ddd3e48180d076ca34f875144f224261811aa98f80bd9f131bd3eb176cce58d4e6f43f1d981c8877b21c9aba8bc3f46
+Size: 4004
+MD5sum: 709addb29cdf243af2a0bae6204f53d0
+SHA1: 614ebed0d1329e9517a56071db1e2698bef12145
+SHA256: a38e2e3bbda2dd26d83a70600f13535f1a7b41d817e372350133b9a84e679666
+SHA512: 9730d6b7676273d2b518aeae338e0451bf3bb4d25f37277abb95c397d863209edf76179dd15041ca0d7176448ab62693d658e64761388434d25e7e91e7ec1ad1
 Description: Disable paste alert warning for ios16+
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/disablepaste.json
 Name: DisablePaste16
 Author: SquidForce
+
+Package: com.mhmdsabdlh.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Filename: ./debs/com.mhmdsabdlh.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 97268
+MD5sum: 515e87f7b84f35c2cd6cec3ad538b1c3
+SHA1: 12d8d6f2322ae0de60df89e986551c2dacb0cb24
+SHA256: 73e9f4e7531c77f4c008ea507b4e4946711245278b5f27cf2630d41bc39e3d91
+SHA512: b87b9ce3221101390d678f51bd977ebfe2b54ec45e40a9536343c448ca6849f56785647bb07794fc2269ceeeacdfa737fb3ca56e88a66e236340e3e6233c29a0
+Description: Customize the ios settings page
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/settingsrevamp.json
+Name: SettingsRevamp
+Author: SOPPPra

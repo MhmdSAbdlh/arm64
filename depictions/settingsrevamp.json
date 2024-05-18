@@ -1,0 +1,149 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://onejailbreak.com/site/assets/files/1491/settingsrevamp.jpg",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://onejailbreak.com/site/assets/files/1491/settings-revamp-tweak.650x0-is.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://onejailbreak.com/site/assets/files/1491/settingsrevamp-preferences.650x0-is.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": ""
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown":"ettingsRevamp is a free jailbreak tweak that simplifies the organization of installed tweaks, system apps, and App Store apps on iOS 14 – iOS 16. In addition to organization, the tweak enables customization of the Settings app. With the tweak, you can modify the appearance of cells, labels and icons, as well as add an image on top of the pane.\n\n\n\nAfter installation, the SettingsRevamp tweak creates a dedicated preference pane within the Settings app, allowing you to easily customize and configure all available options. This user-friendly interface enables you to personalize the look and functionality of the Settings app on your jailbroken iPhone with ease. SettingsRevamp supports Palera1n and XinaA15 jailbreaks.\n\n\n\nEnabling the SettingsRevamp tweak from the Settings app allows you to toggle on the organizer for installed tweaks and apps. What's more, you can customize the titles of your tweaks, system apps, and App Store apps displayed in the Settings app to your liking. ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.1.1",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "17-5-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "text": "SOPPPra",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "text": "14.0 - 16.7",
+                    "class": "DepictionTableTextView",
+                    "title": "compatibility"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
+                },
+                {
+                    "text": "97.3 KB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "https://mhmdsabdlh.github.io/",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "http://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Paypal",
+							"action": "http://paypal.me/mhmdsabdlh",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.1.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Added the ability to search within tweaks, system and App Store apps.</li>\n<li>Overall improvements and bug fixes.</li>\n<li>Set the opacity for the table background.</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "2.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Added rootless support.</li>\n<li>Reworked tweak preferences.</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial Release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+    ]
+}
