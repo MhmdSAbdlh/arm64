@@ -1,0 +1,123 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://ik4.es/wp-content/uploads/2021/10/%C2%BFComo-puedo-guardar-un-archivo-Deb-instalado-en-mi-iPhone-o-iPad-desde-Cydia-en-mi-ordenador.jpg",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://media.idownloadblog.com/wp-content/uploads/2022/10/Jailbreak-Roundup-Sileo-Wallpaper.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://i.ytimg.com/vi/rtCxAx1DvWg/maxresdefault.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown":"Backup sileo deb files when you download it\n\n\n\n - The download files will be in  /var/mobile/Downloads/sileo_deb\n\n - You need to redownload the existing tweaks to get the deb files ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "19-5-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "text": "zhaonan",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "text": "15.0 - 16.7",
+                    "class": "DepictionTableTextView",
+                    "title": "compatibility"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
+                },
+                {
+                    "text": "2.5 KB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "https://mhmdsabdlh.github.io",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "http://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Paypal",
+							"action": "http://paypal.me/mhmdsabdlh",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial Release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+    ]
+}

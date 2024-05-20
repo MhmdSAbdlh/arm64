@@ -227,3 +227,22 @@ Description: Customize the ios settings page
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/settingsrevamp.json
 Name: SettingsRevamp
 Author: SOPPPra
+
+Package: com.mhmdsabdlh.sileodeb
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Addons
+Maintainer: mhmdsabdlh
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Installed-Size: 1236
+Depends: coreutils, sed, gawk
+Filename: ./debs/com.mhmdsabdlh.sileodeb_1.0_iphoneos-arm64.deb
+Size: 2508
+MD5sum: f4e73a04b720a0f643c77608bcd7888b
+SHA1: 7a49c84512f6e9805f79d53fbab3711139e6b4c6
+SHA256: d6ab9c4301a3757247db8b0fd7be000295357b9b3a030e61acb5449c771523e1
+SHA512: 1ea5a0cca9197643899aa75e2460ed4fbe516ed97c0fd9614929ca53593aed4da811f17e65db7496cf5d2ca10ecb8b664874f592ae5d4f54f2a4e87237c2274f
+Description: Bakcup sileo debs
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/sileodeb.json
+Name: SileoDeb
+Author: zhaonan
