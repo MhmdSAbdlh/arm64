@@ -263,5 +263,5 @@ SHA256: 1b7ae457f9b969d4a6f4e48bab6cdaa4530ef194355f6a76b8be290aa76e1f21
 SHA512: d58950e0a88207bb513d368b9f91db078a6fb6f4a18d5839ecf1c88345dd46b02aff239fd36b9b2ded117de732073138ec2ea39807f8e883b7ba75d429e79fb2
 Description: Enhance camera experience, full screen mode and disable sound!
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/camerafull.json
-Name: FullCamer
+Name: FullCamera
 Author: iOSign
