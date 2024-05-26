@@ -265,3 +265,22 @@ Description: Enhance camera experience, full screen mode and disable sound!
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/camerafull.json
 Name: FullCamera
 Author: iOSign
+
+Package: com.mhmdsabdlh.acehighsierra
+Architecture: iphoneos-arm64
+Version: 6.0
+Section: Themes
+Maintainer: mhmdsabdlh
+Icon: https://mhmdsabdlh.github.io/repo/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/icon.png
+Installed-Size: 18300
+Depends: com.anemonetheming.anemone | com.spark.snowboard | com.artikus.neonboard-lite
+Filename: ./debs/com.mhmdsabdlh.acehighsierra_6.0_iphoneos-arm64.deb
+Size: 10943284
+MD5sum: 01c49ebef329cfb4e25a2b78b3743bdd
+SHA1: 75bd31cb4d5e7ce15ddc6d70b5204cd5131faba4
+SHA256: 7ef804d622263c35a68d58461c20c71f75223bdb6228ec43f3251236935c3a66
+SHA512: 852451c4223448fc3739da612edecc83097a3d025911d2b9d1f3b601597bb3686869c9c86933d10652bb2ce22b6e776449af95a73c4e74aadad945511ffad205
+Description: macOS Mojave for iOS
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/acesierra.json
+Name: Ace High Sierra
+Author: iAnas

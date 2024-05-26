@@ -1,0 +1,145 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://images.macrumors.com/t/5E2IVX02Ce9fEg4aYT9YdPl1c9Y=/1600x1200/smart/article-new/2017/07/macOS-High-Sierra.jpg",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://preview.redd.it/02nwjn88nkk21.jpg?width=640&crop=smart&auto=webp&s=d48746ca24f7001e36004f61b2c41e94e968c6f3"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://rejail.ru/screenshot/acehighsierra1.jpghttps://rejail.ru/screenshot/acehighsierra2.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown":"Ace El Cap theme in MacOS style \n\n\n\nHas more than 350 icons \n\n - settings menu \n\n - loading logo \n\n - iPad compatible ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "6.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "26-5-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "text": "iAnas",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "text": "14.0 - 16.7.5",
+                    "class": "DepictionTableTextView",
+                    "title": "compatibility"
+                },
+                {
+                    "text": "mhmdsabdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
+                },
+                {
+                    "text": "10.9 MB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "http://mhmdsabdlh.github.io",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "http://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Paypal",
+							"action": "http://paypal.me/mhmdsabdlh",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "6.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Add iOS rootless compatibility</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "5.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Add more icons</li>\n<li>Add support for iOS 14+</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+    ]
+}
