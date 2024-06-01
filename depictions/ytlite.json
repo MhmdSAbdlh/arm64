@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite4.jpg",
+    "headerImage": "https://github.com/MhmdSAbdlh/arm64/blob/main/img/ytlite4.JPG",
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "tabs": [
@@ -10,15 +10,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite1.jpg"
+                            "url": "https://github.com/MhmdSAbdlh/arm64/blob/main/img/ytlite1.JPG"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite2.png"
+                            "url": "https://github.com/MhmdSAbdlh/arm64/blob/main/img/ytlite2.PNG"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite3.jpg"
+                            "url": "https://github.com/MhmdSAbdlh/arm64/blob/main/img/ytlite3.JPG"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",
