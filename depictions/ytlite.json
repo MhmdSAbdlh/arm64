@@ -1,0 +1,149 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite4.jpg",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/ytlite3.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown":"Lightweight YouTube Enhancer\n\n\n\n - Add download option(Video/Audio) with a beautifull bar\n\n - Option to copy description/comment/photo\n\n - Full customization to the short\n\n - Add gesture to the player, hide tabs and replace buttons\n\n - More option to the speed\n\n - Remove ADS\n\n - Much more ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "4.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "01-6-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "text": "dvntm",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "text": "14.0 - 17.0",
+                    "class": "DepictionTableTextView",
+                    "title": "compatibility"
+                },
+                {
+                    "text": "MhmdSAbdlh",
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer"
+                },
+                {
+                    "text": "5.83 MB",
+                    "class": "DepictionTableTextView",
+                    "title": "Size"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Website",
+							"action": "http://mhmdsabdlh.github.io",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Twitter(X)",
+							"action": "http://x.com/mhmdsabdlh",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Paypal",
+							"action": "http://paypal.me/mhmdsabdlh",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#8600ff",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "4.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Downloading feature</li>\n<li>Tweak UI improvements</li>\n<li>Added some player gestures</li>\n<li>Added Import/Export settings feature (Tweak preferences)</li>\n<li>Added Old/New UI toggle (Version spoofing)</li>\n<li>Added options to remove community posts and inline comment under the player</li>\n<li>Added OLED dark mode support</li>\n<li>Added option to speed up Shorts</li>\n<li>Lite version temporarily disabled</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "3.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Added option to set premium logo</li>\n<li>Added option to show ios volume hud in fullscreen mode</li>\n<li>Added option to show end time in player bar</li>\n<li>Added option to disable two finger double tap (snap to next chapter)</li>\n<li>Added option to pause playback with overlay</li>\n<li>Added option to auto-skip to next shorts video</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial release:</li>\n<li>• General options</li>\n<li>No ads</li>\n<li>Background playback</li>\n<li>• Navigation bar options</li>\n<li>Options to remove Cast, Search and notification buttons</li>\n<li>• Tab bar options</li>\n<li>Remove labels</li>\n<li>Hide tabs</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+    ]
+}
