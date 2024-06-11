@@ -303,3 +303,22 @@ Description: Lightweight YouTube Enhancer
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/ytlite.json
 Name: YTLite
 Author: dvntm
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
+Version: 4.0.1
+Section: Tweaks
+Maintainer: mhmdsabdlh
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Installed-Size: 15572
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_4.0.1_iphoneos-arm64.deb
+Size: 5830388
+MD5sum: 16ecf76fec228ac2e49cb69fee4232ef
+SHA1: 41bbd7e6db964253d3991ae9d005126d482de28f
+SHA256: 14491bcaafde39f623dfc5080b05725788ad5a587bf365d4de532ddbd0f50462
+SHA512: 87d5d315a405f3951b2e5bf71a4ba8eea52218647dc8797bbdca11e63be4170c8dfca9e481c687f5810b396826fa056543a74b27fb03f67e5c0bd49b415f3405
+Description: Lightweight YouTube Enhancer
+Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/ytlite.json
+Name: YTLite
+Author: dvntm

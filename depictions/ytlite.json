@@ -41,7 +41,7 @@
                     "title": "Version"
                 },
                 {
-                    "text": "01-6-2024",
+                    "text": "10-6-2024",
                     "class": "DepictionTableTextView",
                     "title": "Released"
                 },
@@ -110,6 +110,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#8600ff",
 			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "4.0.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Added ability to play videos in external players (System, Infuse, VLC)</li>\n<li>Added option to keep Shorts videos in the Subscriptions tab</li>\n<li>Added ability to open shorts as regular videos using YTPlus menu button in Shorts</li>\n<li>Added ability to enable/disable auto-skip shorts option using YTPlus menu button in Shorts</li>\n<li>Added option to disable Autoplay end-screen recommendation (Enabling this option will also disable autoplay next video feature)</li>\n<li>Improved Shorts downloading which directly downloads best mp4 video</li>\n<li>Improved YTPlus button compatibility with the latest YouTube versions</li>\n<li>Improved YTPlus button compatibility with Inline muted playback (Player that displayed on video thumbnail)</li>\n<li>Fixed blank space issues on the big screens</li></ul>",
+					"useRawFormat": true
+				},
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
