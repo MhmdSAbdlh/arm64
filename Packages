@@ -135,18 +135,18 @@ Author: Bandar Alruwaili
 
 Package: com.mhmdsabdlh.ccplus
 Architecture: iphoneos-arm64
-Version: 2.0.4
+Version: 2.0.5
 Section: Addons
 Maintainer: mhmdsabdlh
 Icon: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/img/cc+.png
 Installed-Size: 913
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/com.mhmdsabdlh.ccplus_2.0.4_iphoneos-arm64.deb
-Size: 421160
-MD5sum: e81deca07f078e5348d2837bdda29c28
-SHA1: de39071fce96e526213614edaab63cf17f989c49
-SHA256: fa5051bb599210b0f9f3864d14240dcb02e955e4c588cb86ae23f3f528e13179
-SHA512: 057e5076dd6d05d2ad2d0f5224fa772c3ece5828ad2a81921c83e8c51a72bd2b61a0015025c8c6509cbb4e378b7e5e88c8f67e6071b2fa49c9900a035e7a56e5
+Filename: ./debs/com.mhmdsabdlh.ccplus_2.0.5_iphoneos-arm64.deb
+Size: 459944
+MD5sum: 1d58f91bd54e1a0f08b8838b47ea027e
+SHA1: fcff0ae34014ea68a3e74b88fe9abc19330420cc
+SHA256: 467c63a3196f2cf72498ec50539e6be1053c1e84b9f29ef18267a330a2ed89bd
+SHA512: 62a9d5ec25ccb61ee3bd337fcf0e878684e29efbbf4db0584350b5297a679eb8311f6fb26b7d6a5cd298b41bbf17919e26b0604e11e1f2b76df92948958cd00d
 Description: Add some modules to the control center
 Sileodepiction: https://raw.githubusercontent.com/MhmdSAbdlh/sileo/main/depictions/cc+.json
 Name: CC+
